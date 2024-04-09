@@ -1,0 +1,5 @@
+cookiecutter==2.6.0
+isort==5.13.2
+pip-tools
+pre-commit
+ruff==0.3.5
