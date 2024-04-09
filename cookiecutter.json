@@ -4,5 +4,6 @@
   "description": "Behold My Awesome Project!",
   "author_name": "Thomas Muat",
   "debug": "n",
-  "minimum_password_length": 12
+  "minimum_password_length": 12,
+  "timezone": "UTC"
 }
