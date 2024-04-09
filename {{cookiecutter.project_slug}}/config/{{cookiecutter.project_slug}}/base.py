@@ -1,4 +1,5 @@
 # ruff: noqa: F821
+# Ignored F821 Undefined name `cookiecutter`
 
 """
 Base settings to build other settings files upon.
