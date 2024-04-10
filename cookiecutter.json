@@ -3,6 +3,7 @@
   "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_')|replace('.', '_')|trim() }}",
   "description": "Behold My Awesome Project!",
   "author_name": "Thomas Muat",
+  "copyright_year": "{{ now().year }}",
   "debug": "n",
   "minimum_password_length": 12,
   "timezone": "UTC"
